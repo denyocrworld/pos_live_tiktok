@@ -1,0 +1,13 @@
+{
+    "modules": [
+      "pos/main_navigation",
+      "pos/dashboard",
+      "pos/product_list",
+      "pos/product_form",
+      "pos/purchase_order",
+      "pos/sales_transaction",
+      "pos/sales_report",
+      "pos/stock_report",
+      "pos/profile"
+    ]
+}
